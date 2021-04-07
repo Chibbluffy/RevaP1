@@ -1,8 +1,8 @@
 # RevaP1
-##Description
+## Description
 The Expense Reimbursement System (ERS) will manage the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and past history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement.
 
-##Technologies Used
+## Technologies Used
 - JavaScript
 - HTML
 - CSS
@@ -12,7 +12,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 - Mockito
 - JUnit
 
-##Features
+## Features
 - Manager can approve/deny requests
 - Once created, expenses cannot be deleted
 - Easy to navigate menu
@@ -21,7 +21,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 - JWT security tokens
 - Username and password protected access
 
-##Usage
+## Usage
 compile: `./gradlew fatJar`  
 run: `java -jar {appname}.java`  
 
